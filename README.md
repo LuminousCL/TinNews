@@ -3,4 +3,4 @@
 ![Version](https://img.shields.io/badge/cooperation-facebook-blue)
 ![Version](https://img.shields.io/badge/flavor-Tinder+Instgram-ff69b4)
 
-# Job+: AWS based Web Service Development
+# TinNews: a Tinder-like News App
