@@ -5,11 +5,12 @@
 
 # TinNews: a Tinder-like News App
 
-<img src="app/src/main/res/pictures/01.png" width="50%" height="50%">
+<img src="app/src/main/res/pictures/01.png" width="30%" height="30%">
+<img src="app/src/main/res/pictures/02.png" width="30%" height="30%">
+<img src="app/src/main/res/pictures/03.png" width="30%" height="30%">
 
-<img src="app/src/main/res/pictures/02.png" width="50%" height="50%">
 
-<img src="app/src/main/res/pictures/03.png" width="50%" height="50%">
+<img src="app/src/main/res/pictures/05.png" width="50%" height="50%">
 
 ### LifeCycle
 
