@@ -16,6 +16,10 @@
 
 <img src="app/src/main/res/pictures/04.png" width="50%" height="50%">
 
+### NewsAPI
+
+[https://newsapi.org/](https://newsapi.org/)
+
 
 ### MVVM pattern
 
