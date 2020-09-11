@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home">主页</string>
+    <string name="title_save">收藏</string>
+    <string name="title_search">搜索</string>
+    <string name="title_details">详情</string>
+    <string name="saved_item_author">作者：</string>
+    <string name="saved_item_description">描述：</string>
+</resources>
